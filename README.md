@@ -1,7 +1,7 @@
 # AWS-Lambda-Tutorials
 Code for Youtube Tutorials (Youtube: Nikhil Rao)
 
-Links:
+## Links
 
 [AWS Documentation to get the **Go SDK**](https://docs.aws.amazon.com/sdk-for-go/v1/developer-guide/setting-up.html)
 
